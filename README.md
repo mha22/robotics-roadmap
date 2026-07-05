@@ -5,7 +5,8 @@ Focus: ROS 2, Simulation, Navigation, and Embedded.
 
 ## Progress
 - [x] Week 01 — Python review, Bash, Git
-- [ ] Week 02 — C++ basics
+- [x] Week 02 — C++ basics: classes, constructors, encapsulation
+- [x] Week 03 — C++ OOP: inheritance, polymorphism, virtual functions
 - [ ] ...
 
 ## Tech Stack
