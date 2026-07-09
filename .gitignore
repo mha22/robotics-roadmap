@@ -1,2 +1,15 @@
+# Python
 __pycache__/
 *.pyc
+*.py[cod]
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# ROS2 / colcon
+**/build/
+**/install/
+**/log/
