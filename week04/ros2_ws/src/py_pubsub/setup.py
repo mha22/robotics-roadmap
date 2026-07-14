@@ -28,6 +28,8 @@ setup(
             'listener = py_pubsub.subscriber:main',
             'sensor_pub = py_pubsub.sensor_publisher:main',
             'sensor_sub = py_pubsub.sensor_subscriber:main',
+            'add_server = py_pubsub.add_server:main',
+            'add_client = py_pubsub.add_client:main',
         ],
     },
 )
